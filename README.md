@@ -24,3 +24,7 @@ Mottos, iterating:
 - Individuals and Interactions Over Processes and Tools. - [Agile Manifesto](https://agilemanifesto.org/)
 - [In Web3, Community is the CEO](https://twitter.com/sandeepnailwal/status/1556698309867233280)
 
+
+
+### Recent projects
+- https://github.com/web3devcommunity/lantana-hacksg/
