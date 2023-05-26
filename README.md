@@ -26,5 +26,7 @@ Mottos, iterating:
 
 
 
-### Recent projects
-- https://github.com/web3devcommunity/lantana-hacksg/
+### Public goods projects
+- Lantana - Volunteering meetup platform with Lens protocol & Hypercert https://github.com/web3devcommunity/lantana-hacksg/
+- Legco Explorer https://github.com/initiumlab/legco-explorer
+- Fb Reactions https://github.com/debuggingfuture/fbreactions
