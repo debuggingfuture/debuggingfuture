@@ -16,14 +16,13 @@ It\'s promised AI will give us more leisure and unleash our creativity. What if 
 
 Fan of OSS, [Self-hosted](https://www.reddit.com/r/selfhosted/), decentralizing the cloud with [Compute Over Data](https://github.com/bacalhau-project/bacalhau) & [FinOps](https://www.finops.org/) in industry.
 
-Mottos, iterating:
+### Mottos, iterating:
 
 - Civilization is in a race between education and catastrophe.
 - Every Web3 discussion starts technical, ends philosophical.
 - [Protocols, Not Platforms](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech)
 - Individuals and Interactions Over Processes and Tools. - [Agile Manifesto](https://agilemanifesto.org/)
 - [In Web3, Community is the CEO](https://twitter.com/sandeepnailwal/status/1556698309867233280)
-
 
 
 ### Public goods projects
