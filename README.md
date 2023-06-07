@@ -27,6 +27,7 @@ Mottos, iterating:
 
 
 ### Public goods projects
+- ContactUsDAO - a DataDAO to help communities to own their mailing list, encrypted, and vote on who can contact them [Twitter Thread](https://twitter.com/debuggingfuture/status/1665889299907383296) https://github.com/debuggingfuture/contact-us-dao
 - Lantana - Volunteering meetup platform with Lens protocol & Hypercert https://github.com/web3devcommunity/lantana-hacksg/
 - Legco Explorer https://github.com/initiumlab/legco-explorer
 - Fb Reactions https://github.com/debuggingfuture/fbreactions
