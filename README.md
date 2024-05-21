@@ -6,6 +6,9 @@ More about me on [https://debuggingfuture.com/](https://debuggingfuture.com/)
 
 I believe in open source, decentralized technologies and organizations, trying to build some.
 
+Currently I focus on my company Fractal Labs, where we strive to create infrastructure & services to put [AI on chain](https://www.placeholder.vc/blog/2023/10/23/artificial-intelligence-belongs-onchain). A Public good project we're working at is [Ethereum Localization Service](https://0xl10n.org/)
+
+
 It\'s our mission to make Technologies and Education empowering individuals so the world stays free, open, permissive, innovative and equal.
 
 Worked in bank/startups, I\'m getting more and more inspired by Self Sovereignty,[The Graph](https://thegraph.com/en/), [Indie Hacker](https://www.indiehackers.com/), Company of One & [Companies being more transparent](https://www.slideshare.net/Bufferapp/buffer-culture-04), business models powered by fair games.
