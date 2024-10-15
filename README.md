@@ -6,7 +6,7 @@ More about me on [https://debuggingfuture.com/](https://debuggingfuture.com/)
 
 I believe in open source, decentralized technologies and companies and trying to build some.
 
-Currently I focus on my Web3 Dev Studio [Fractal Labs](https://fractal.box/), where we strive to create infrastructure & services to put [AI on chain](https://www.placeholder.vc/blog/2023/10/23/artificial-intelligence-belongs-onchain). We work on projects on decentralized computing, AI agents coordination protocols and more. 
+Currently I focus on my Web3 Dev Studio [Fractal Box](https://fractal.box/), where we strive to create infrastructure & services to put [AI on chain](https://www.placeholder.vc/blog/2023/10/23/artificial-intelligence-belongs-onchain). We work on projects on decentralized computing, AI agents coordination protocols and more. 
 
 You can find case studies [here](https://fractal.box/#case-studies) where we also launched NFT communities of Animoca Brands and account abstraction enabled games of 500k+ MAU. A Public good project we're working at is [Ethereum Localization Service](https://0xl10n.org/)
 
