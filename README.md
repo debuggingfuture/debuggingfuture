@@ -25,8 +25,10 @@ Fan of OSS, Public Goods, [Self-host](https://www.reddit.com/r/selfhosted/), [Co
 
 
 ### Recent Experiements / Public Goods project
-I like to keep up my learning experiment with different ideas at hackathons. I also organize developer communities & build on public goods / civic hacking projects since 2011.
+I like to keep up my learning by experimenting with different ideas at hackathons. I also organize developer communities & build on public goods / civic hacking projects since 2011.
 
+- [Geist] | [Codebase](https://ethglobal.com/events/singapore2024)
+  - [🥇 ETHGlobal SG Finalist](https://ethglobal.com/showcase/geist-x3fur)
 - [Ethereum Localization Service](https://0xl10n.org/) | [Codebase](https://github.com/debuggingfuture/ethereum-l10n-service-ethglobal)
   - Decentralized translation network with AI & human attestors, to onboard next billion users of Ethereum
   - Ethereum Attestation Service Fellowship #1
