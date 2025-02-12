@@ -4,15 +4,15 @@ More about me on [https://debuggingfuture.com/](https://debuggingfuture.com/)
 
 ---
 
-I believe in open source, decentralized technologies and companies and trying to build some.
+I believe in open source, decentralized technologies and organizations, trying to build some.
 
-Currently I focus on my Web3 Dev Studio [Fractal Box](https://fractal.box/), where we strive to create infrastructure & services to put [AI on chain](https://www.placeholder.vc/blog/2023/10/23/artificial-intelligence-belongs-onchain). We work on projects on decentralized computing, AI agents coordination protocols and more. 
+Currently I focus on my Web3 Dev Studio [Fractal Box](https://fractal.box/), where we strive to create infrastructure & services to put [AI on chain](https://www.placeholder.vc/blog/2023/10/23/artificial-intelligence-belongs-onchain). We work on projects related to decentralized computing, AI agents coordination protocols and more. 
 
-You can find case studies [here](https://fractal.box/#case-studies) where we also launched NFT communities of Animoca Brands and account abstraction enabled games of 500k+ MAU. A Public good project we're working at is [Ethereum Localization Service](https://0xl10n.org/)
+You can find case studies [here](https://fractal.box/#case-studies) where we also launched NFT communities of Animoca Brands and account abstraction enabled games of 500k+ MAU.
 
 It\'s our mission to make Technologies and Education empowering individuals so the world stays free, open, permissive, innovative and equal.
 
-Worked in bank/startups, I'm getting more and more inspired by [indie.vc](http://indie.vc/), Remote work. [Indie Hacker](https://www.indiehackers.com/), Company of One & [Companies being more transparent](https://www.slideshare.net/Bufferapp/buffer-culture-04).
+Worked in bank/startups, I\'m inspired by [Indie Hacker](https://www.indiehackers.com/), Company of One & [Companies being more transparent](https://www.slideshare.net/Bufferapp/buffer-culture-04), business models powered by fair games.
 
 Web3 is about ownership. DAO is about collaboration. Blockchain is not only about currency, but the biggest innovation that shapes our society works, I want to commit myself contributing better coordination & governance tools as in Network State[https://thenetworkstate.com/] pioneered by Balaji and Vitalik . I got lost during my journey in web2 and come late, but now I see it.
 
