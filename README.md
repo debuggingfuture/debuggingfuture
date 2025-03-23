@@ -32,9 +32,10 @@ I like to keep up my learning by experimenting with different ideas on my own or
 | **Seele** |  CMS to build Autonomous website owned by agents, governed by community  | 🥇 ETHDenver'25 Finalist | [Devfolio](https://devfolio.co/projects/seele-3477) |
 | **Geist** | Autonomous websites Builder for DAO | 🥇 ETHGlobal SG Finalist | [GitHub](https://github.com/debuggingfuture/geist) |
 | **Ethereum Localization Service** | Decentralized translation network with AI & human attestors to onboard the next billion users of Ethereum | Ethereum Attestation Service Fellowship #1 <br> 🥇 EthGlobal Scaling Ethereum 2024 Finalist | [Website](https://0xl10n.org/) <br> [GitHub](https://github.com/debuggingfuture/ethereum-l10n-service-ethglobal) |
+| **CivAI** | Civilization style game played by Autonomous agents  | 🥇 ETHGlobal HackFS'24 Finalist | [GitHub](https://github.com/debuggingfuture/contact-us-dao) |
 | **Tentai** | SDK to deploy AI models on decentralized cloud instead of Hugging Face Spaces | 🥇 ETHGlobal Bacalhau - Best Use | [GitHub](https://github.com/debuggingfuture/tentai) |
 | **ContactUsDAO** | DataDAO for communities to own encrypted mailing lists and vote on who can contact them | 🥇 ETHSeoul 23 Best Project on Filecoin | [GitHub](https://github.com/debuggingfuture/contact-us-dao) |
-| **Lantana** | Volunteering meetup platform using Lens protocol & Hypercert | - | [GitHub](https://github.com/web3devcommunity/lantana-hacksg/) |
+
 | **Legco Explorer** | Data visualization on HK LEGCO data | - | [GitHub](https://github.com/initiumlab/legco-explorer) |
 | **Fb Reactions** | Data visualization on Facebook reactions data | - | [GitHub](https://github.com/debuggingfuture/fbreactions) |
 
