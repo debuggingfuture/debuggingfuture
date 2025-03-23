@@ -25,26 +25,18 @@ Fan of OSS, Public Goods, [Self-host](https://www.reddit.com/r/selfhosted/), [Co
 
 
 ### Recent Experiements / Public Goods project
-I like to keep up my learning by experimenting with different ideas at hackathons. I also organize developer communities & build on public goods / civic hacking projects since 2011.
+I like to keep up my learning by experimenting with different ideas on my own or at hackathons. I also organize developer communities & build on public goods / civic hacking projects since 2011.
 
-- Geist | [Codebase](https://github.com/debuggingfuture/geist)
-  - [🥇 ETHGlobal SG Finalist](https://ethglobal.com/showcase/geist-x3fur)
-- [Ethereum Localization Service](https://0xl10n.org/) | [Codebase](https://github.com/debuggingfuture/ethereum-l10n-service-ethglobal)
-  - Decentralized translation network with AI & human attestors, to onboard next billion users of Ethereum
-  - Ethereum Attestation Service Fellowship #1
-  - [🥇 Ethglobal Scaling Ethereum 2024 Finalist](https://ethglobal.com/showcase/ethereuml10nservice-v65cs)
-- Tentai | [Codebase](https://github.com/debuggingfuture/tentai)
-  - Sdk to shill AI models running on decentralized cloud instead of hugging face spaces
-  - [🥇 ETHGlobal Bacalhau - Best Use](https://ethglobal.com/showcase/tentai-ub5xn)
-- ContactUsDAO | [Codebase](https://github.com/debuggingfuture/contact-us-dao)
-  - a DataDAO to help communities to own their mailing list, encrypted, and vote on who can contact them Twitter Thread 
-  - [🥇 ETHSeoul 23 Best Project on Filecoin](https://www.linkedin.com/pulse/your-mailing-list-community-building-datadao-ethseoul-lau)
-- [Lantana](https://github.com/web3devcommunity/lantana-hacksg/) - Volunteering meetup platform with Lens protocol & Hypercert 
-- Legco Explorer | [Codebase](https://github.com/initiumlab/legco-explorer)
-  - Data visualization on HK LEGCO data
-
-- Fb Reactions | [Codebase](https://github.com/debuggingfuture/fbreactions)
-  - Data visualization on facebook reactions data
+| Project | Description | Achievements | Codebase |
+|---------|-------------|-------------|---------|
+| **Seele** |  CMS to build Autonomous website owned by agents, governed by community  | 🥇 ETHDenver SG Finalist | [Devfolio](https://devfolio.co/projects/seele-3477) |
+| **Geist** | Autonomous websites Builder for DAO | 🥇 ETHGlobal SG Finalist | [GitHub](https://github.com/debuggingfuture/geist) |
+| **Ethereum Localization Service** | Decentralized translation network with AI & human attestors to onboard the next billion users of Ethereum | Ethereum Attestation Service Fellowship #1 <br> 🥇 EthGlobal Scaling Ethereum 2024 Finalist | [Website](https://0xl10n.org/) <br> [GitHub](https://github.com/debuggingfuture/ethereum-l10n-service-ethglobal) |
+| **Tentai** | SDK to deploy AI models on decentralized cloud instead of Hugging Face Spaces | 🥇 ETHGlobal Bacalhau - Best Use | [GitHub](https://github.com/debuggingfuture/tentai) |
+| **ContactUsDAO** | DataDAO for communities to own encrypted mailing lists and vote on who can contact them | 🥇 ETHSeoul 23 Best Project on Filecoin | [GitHub](https://github.com/debuggingfuture/contact-us-dao) |
+| **Lantana** | Volunteering meetup platform using Lens protocol & Hypercert | - | [GitHub](https://github.com/web3devcommunity/lantana-hacksg/) |
+| **Legco Explorer** | Data visualization on HK LEGCO data | - | [GitHub](https://github.com/initiumlab/legco-explorer) |
+| **Fb Reactions** | Data visualization on Facebook reactions data | - | [GitHub](https://github.com/debuggingfuture/fbreactions) |
 
 
 ### Mottos, iterating:
