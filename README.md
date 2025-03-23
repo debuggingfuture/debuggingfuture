@@ -27,9 +27,9 @@ Fan of OSS, Public Goods, [Self-host](https://www.reddit.com/r/selfhosted/), [Co
 ### Recent Experiements / Public Goods project
 I like to keep up my learning by experimenting with different ideas on my own or at hackathons. I also organize developer communities & build on public goods / civic hacking projects since 2011.
 
-| Project | Description | Achievements | Codebase |
+| Project | Description | Achievements | Links |
 |---------|-------------|-------------|---------|
-| **Seele** |  CMS to build Autonomous website owned by agents, governed by community  | 🥇 ETHDenver SG Finalist | [Devfolio](https://devfolio.co/projects/seele-3477) |
+| **Seele** |  CMS to build Autonomous website owned by agents, governed by community  | 🥇 ETHDenver'25 Finalist | [Devfolio](https://devfolio.co/projects/seele-3477) |
 | **Geist** | Autonomous websites Builder for DAO | 🥇 ETHGlobal SG Finalist | [GitHub](https://github.com/debuggingfuture/geist) |
 | **Ethereum Localization Service** | Decentralized translation network with AI & human attestors to onboard the next billion users of Ethereum | Ethereum Attestation Service Fellowship #1 <br> 🥇 EthGlobal Scaling Ethereum 2024 Finalist | [Website](https://0xl10n.org/) <br> [GitHub](https://github.com/debuggingfuture/ethereum-l10n-service-ethglobal) |
 | **Tentai** | SDK to deploy AI models on decentralized cloud instead of Hugging Face Spaces | 🥇 ETHGlobal Bacalhau - Best Use | [GitHub](https://github.com/debuggingfuture/tentai) |
